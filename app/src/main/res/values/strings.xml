@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Muhammad Farhan Pratama</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">Hi, my name is Farhan.
+\n\nI love Juventus.
+\n\nI am started watching football match on television when I was 8 years old.
+\n\nMy favorite football player is Gianluigi Buffon.
+\n\nFor me, he is a goalkeeper, a leader, a great sports man, and a superman.
+\n\nI have never watched a live football match.
+\nUmm, by the way I love Japanese culture.
+\n\nWhen I have a free time, I watched anime and listen Japanese pop.
+\n\nI like One Piece and Gintama so much.
+\n\nI hope someday I can visit Italy or Japan to watch a football match.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
+</resources>
